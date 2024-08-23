@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Mentoring Platform</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Important meta tags starts -->
+    <meta name='description' content='Optimize your learning initiatives and mentorship experience with our Mentoring Management System (MMS). Streamline course management, track progress, and deliver engaging online education effortlessly. Unlock the full potential of mentoring with our MMS solution' />
+    <meta property='og:description' content='Optimize your learning initiatives and mentorship experience with our Mentoring Management System (MMS). Streamline course management, track progress, and deliver engaging online education effortlessly. Unlock the full potential of mentoring with our MMS solution' />
+    <meta property='og:title' content='Best Mentoring Management Systems (MMS) Of 2024' />
+    <meta property='og:type' content='Best Mentoring Management Systems (MMS) Of 2024' />
+    <meta content='https://mms-platform.vercel.app' property='og:url' />
+    <meta content='"C:\Users\sengo\Downloads\mentorship_img.jpeg"' property='og:image' />
+    <meta content='' name='twitter:image' />
+    <meta content="summary_large_image" name='twitter:card' />
+    <meta content='@name_of_twitter_account' name='twitter:site' />
+    <meta content='Best Learning Management Systems (LMS) Of 2023' name='twitter:title' />
+    <meta content='A learning management system (LMS) is a software application for the administration, documentation, tracking, reporting, automation, and delivery of educational courses, training programs, materials or learning and development programs.' name='twitter:description' />
+    <meta content='@name_of_twitter_account' name='twitter:creator' />
+    <link rel="icon" href="img/favicon.ico" type="image/gif" sizes="16x16" />
+    <link rel="canonical" href="https://learningmanagementsystem.co.in" />
+    <!-- Important meta tags ends -->
+    <!-- fontawesome -->
+    <link href="fontawesome/css/all.css" rel="stylesheet" />
+    <!-- css -->
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/custom.css" rel="stylesheet" />
+
+    <!-- owl carousel -->
+    <link rel="stylesheet" href="owlcarousel/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" href="owlcarousel/assets/owl.theme.default.min.css" />
+
+    <!------schema-------------->
+    <script type="application/ld+json"> { "@context" : "http://schema.org", "@type" : "Product", "name" : "Learning Management Systems
+", "image" : "https://learningmanagementsystem.co.in/img/LMS-Banner.webp", "description" : "Optimize your learning initiatives with our cutting-edge Learning Management System (LMS). Streamline course management, track progress, and deliver engaging online education effortlessly. Unlock the full potential of e-learning with our LMS solution. ", "url" : "https://learningmanagementsystem.co.in/ ", "brand" : { "@type" : "Brand", "name" : "MasterSoft", "logo" : "https://learningmanagementsystem.co.in/img/company-logo.svg" }, "aggregateRating" : { "@type" : "AggregateRating", "ratingValue" : "4.8", "bestRating" : "5", "worstRating" : "1", "ratingCount" : "2349"}, "review" : { "@type" : "Review", "author" : { "@type" : "Person", "name" : "MasterSoft" }}} </script>
+    <!------schema-------------->
+
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TGN5B3X');</script>
+    <!-- End Google Tag Manager -->
+    <!-----Chatboat--------->
+    
+</head>
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGN5B3X"
+            height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <form method="post" action="./?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=02-LMS-Search-India&amp;gclid=EAIaIQobChMIn52-qo6JiAMVE8w8Ah3S_SUcEAAYASAAEgI5L_D_BwE" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="DZsWa/Rb2c02E1x88cTuc9xHOa0Y3aj0HTvtnYMmaJEsni774Xb/gy9dlnaiLqDbHuZXMdjN9Soal0u9oNTwqZR9PAdnh+iejT0cGCcxzcA=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987" />
+</div>
+        <!---------------Header-------------->
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light navigation">
+                <div class="container-fluid mx-lg-5 mx-3">
+                    <a class="navbar-brand" href="https://learningmanagementsystem.co.in/" id="nav-toggle">
+                        <img src="img/company-logo.svg" class="img-fluid" width="282" height="61" alt="Mastersoft Erp Phillipines">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="#home">Home  </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#Features">Features  </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#How_LMS_Works">How LMS Works</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#Benefits">Benefits </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="../blog/">Blogs</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#Why_Mastersoft">Why Mastersoft </a>
+                            </li>
+                            <li class="nav-item my-3">
+                                <a class="nav-link button-basic button-request-orange text-white px-3" href="contact-us.aspx">Get Started </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <!---------------End Header-------------->
+
+        <main class="all-content">
+            <!---------------Banner-------------->
+            <section class="main_banner" id="home">
+                <div class="sims-banner align-items-center">
+                    <div class="banner-content  justify-content-center">
+                        <div class="main__banner_content">
+                            <h1 class="h1__heading"><span>An All-In-One</span> Learning Management System </h1>
+                            <p>
+                                Maximize student’s learning outcomes and<br />
+                                stay ahead of the curve with a feature-packed and customizable e-learning system.
+                            </p>
+                            <a href="#cta" class="button-basic button-request-darkblue my-4 ">Request Demo  <i class="fas fa-chevron-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="banner-img ">
+                        <img src="img/LMS-Banner.webp" alt="LMS-Banner" class="img-fluid" width="906" height="720" />
+                    </div>
+                </div>
+            </section>
+            <!---=========Banner-CTA===============-->
+            <section>
+                <div class="container py-5">
+                    <div class="row what_lms align-items-center">
+                        <div class="col-md-5 justify-content-center">
+                            <h2 class="h2__heading2">What Is Learning Management System ?</h2>
+                        </div>
+                        <div class="col-md-7">
+                            <p class="text-justify">Learning Management Systems is a versatile and powerful tool that helps institutions to create, manage, & deliver content. LMS is revolutionizing the way we approach academics and training. Whether you are a teacher, employer, or a trainer, an LMS platform can help you with interactive course content, progress tracking, and personalized learning paths. With customizable course content, intuitive and user-friendly interfaces, and advanced reporting and analytics, an LMS helps institutions to streamline learning management and achieve better and quicker results.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+                <div class="container-fluid mx-auto" id="cta">
+                    <iframe src="ContactUs.aspx" id="contactus"></iframe>
+                </div>
+        
+            <!---========= End Banner-CTA===============-->
+
+            <!---========= Everything you NEED all under single platform!===============-->
+            <section class="mb-5 single__platform__product">
+                <div class="container">
+                    <div class="text-center my-3">
+                        <img loading="lazy" src="img/single-platform.webp" class="img-fluid" alt="LMS-banner" width="75" height="78">
+                    </div>
+                    <h2 class="h2__heading2 text-center animate__ animate__fadeInDown wow animated"><span>Everything </span>you NEED,<br />
+                        all under single platform!</h2>
+                    <p class="text-center">
+                        Streamline your learning management and eliminate the trouble of using multiple tools with our
+                            <br />
+                        comprehensive and integrated LMS .
+                    </p>
+                    <div class="row align-items-center">
+                        <div class="col-md-5 my-3 text-center justify-content-center">
+                            <img loading="lazy" src="img/Create-BRAND-IDENTITY.webp" class="img-fluid" alt="LMS-banner" width="498" height="422">
+                        </div>
+                        <div class="col-md-6 my-5 ">
+                            <h6 class="text-blue fw-bold">Everything Under One Platform!</h6>
+                            <h6>Streamline your learning management and eliminate the trouble of using multiple tools with our comprehensive and integrated LMS .</h6>
+
+                            <h6 class="text-orange fw-bold h6">Centralized Learning Material</h6>
+                            <h6>Simplify your online learning journey by offering access to self-paced courses, live courses, question bank driven assessments, webinars, etc. under one platform.</h6>
+
+                            <h6 class="text-darkblue fw-bold h6">Boost Collaboration</h6>
+                            <h6>Connect and collaborate with other students and instructors to clear doubts with the help of  discussion groups, chat, email, and SMS features.</h6>
+                        </div>
+
+                        <div class="col-md-6 my-5 second-section justify-content-center">
+                            <h6 class="text-blue fw-bold h6">Supports Personalized Learning</h6>
+                            <h6>Customize course content as per student’s objectives and learning outcomes, and achieve your goals faster.</h6>
+
+                            <h6 class="text-orange fw-bold h6">Easy Tracking & Instant Feedbacks</h6>
+                            <h6>Track and monitor student’s learning progress and enable instructors to offer feedback whenever necessary.</h6>
+
+                            <h6 class="text-darkblue fw-bold h6">On-Demand Learning</h6>
+                            <h6>Learn at your own pace and get access to courses anytime, anywhere, without the geographical barrier.</h6>
+
+                            <a href="#cta" class="button-basic button-request-blue mt-4 p-3">Book a Demo <i class="fas fa-chevron-right"></i></a>
+                        </div>
+
+                        <div class="col-md-6 my-3 text-center">
+                            <img loading="lazy" src="img/Engage-your-Learners.webp" class="img-fluid" alt="LMS-banner" width="498" height="422">
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+
+            <!---========= End Everything you NEED all under single platform!===============-->
+            <!---========= Start Features Of Learning Management System (LMS)===============-->
+            <section class="my-5 features__of__lms" id="Features">
+                <div class="container pb-3">
+                    <h2 class="h2__heading2 text-center animate__fadeInDown wow animated"><span>Features Of</span><br />
+                        Learning Management System (LMS)</h2>
+                    <p class="text-center mb-3">
+                        An LMS comes equipped with a range of features that enable organizations to create, deliver,
+                            <br />
+                        and manage their training programs effectively.
+                    </p>
+
+                    <div class="row ">
+                        <div class="col-lg-3 col-md-6 mt-5">
+                            <div class="bg-white p-3 mb-3 rounded shadow text-center  feature-box h-100">
+                                <img loading="lazy" src="img/Course-Creation.webp" class="img-fluid" alt="LMS-banner" width="102" height="100">
+                                <h3 class="fw-bold mt-3">Course Creation</h3>
+                                <p>Enable institutions to create and manage their training content, which includes assessments, course materials, and learning activities. </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 mt-5">
+                            <div class="bg-white p-3 mb-3 rounded shadow text-center  feature-box h-100">
+                                <img loading="lazy" src="img/Content-Delivery.webp" class="img-fluid" alt="LMS-banner" width="102" height="100">
+                                <h3 class="fw-bold mt-3">Content Delivery</h3>
+                                <p>Allow schools and colleges to deliver their training material to students in multimedia formats, including videos, PDFs, PPTs, documents, interactive simulations, etc.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 mt-5">
+                            <div class="bg-white p-3 mb-3 rounded shadow text-center  feature-box h-100">
+                                <img loading="lazy" src="img/User-Management.webp" class="img-fluid" alt="LMS-banner" width="102" height="100">
+                                <h3 class="fw-bold mt-3">User Management</h3>
+                                <p>An LMS enables institutes to effectively manage their students, such as adding new users, providing login credentials, creating user groups, and assigning permissions.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 mt-5">
+                            <div class="bg-white p-3 mb-3 rounded shadow text-center  feature-box h-100">
+                                <img loading="lazy" src="img/Reports-&-Analytics.webp" class="img-fluid" alt="LMS-banner" width="102" height="100">
+                                <h3 class="fw-bold mt-3">Analytics & Reporting</h3>
+                                <p>Administrators can easily track their training program’s effectiveness via deep analytics and BI reporting tools and offer insights about student's performance, course completion rate, etc.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 mt-5">
+                            <div class="bg-white p-3 mb-3 rounded shadow text-center  feature-box h-100">
+                                <img loading="lazy" src="img/Certification-and-Compliance-Management.webp" class="img-fluid" alt="LMS-banner" width="102" height="100">
+                                <h3 class="fw-bold mt-3">Certification and Compliance Management</h3>
+                                <p>Help institutions to monitor and manage their certifications, compliance training programs, and licenses. Set reminders to stay updated on any changes.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 mt-5">
+                            <div class="bg-white p-3 mb-3 rounded shadow text-center  feature-box h-100">
+                                <img loading="lazy" src="img/Gamification.webp" class="img-fluid" alt="LMS-banner" width="102" height="100">
+                                <h3 class="fw-bold mt-3">Gamification of Courses</h3>
+                                <p>Offers advanced gamification capabilities that makes learning more interactive and engaging by including game-like features such as badges, points, and leaderboards.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 mt-5">
+                            <div class="bg-white p-3 mb-3 rounded shadow text-center  feature-box h-100">
+                                <img loading="lazy" src="img/Social-Learning.webp" class="img-fluid" alt="LMS-banner" width="102" height="100">
+                                <h3 class="fw-bold mt-3">Social Learning</h3>
+                                <p>Enables students to share ideas, collaborate, and learn from each other. It offers tools such as chat rooms and discussion rooms to encourage social learning.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 mt-5">
+                            <div class="bg-white p-3 mb-3 rounded shadow text-center  feature-box h-100">
+                                <img loading="lazy" src="img/Assessments.webp" class="img-fluid" alt="LMS-banner" width="102" height="100">
+                                <h3 class="fw-bold mt-3">Assessments</h3>
+                                <p>Offer multiple assessments, including chapter-based tests, quizzes, and surveys to evaluate student’s understanding of the subject. </p>
+                            </div>
+                        </div>
+
+                        <div class="text-center mt-5"><a href="#cta" class="button-basic button-request-orange ">Request Free Demo  <i class="fas fa-chevron-right"></i></a></div>
+                    </div>
+                </div>
+            </section>
+
+            <!---========= End Features Of Learning Management System (LMS)===============-->
+
+            <!---=========Start How Does The Learning Management System Software Work?===============-->
+            <section class="mb-5 how__does__section" id="How_LMS_Works">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-md-12 mt-md-5 mt-sm-0">
+                            <div class="how__does__lms">
+                                <div class="first-inner">
+                                    <div class="second-inner py-5 px-5">
+                                        <h2 class="h2__heading2 text-white ml-5 wow animate__animated animate__fadeInDown"><span class="text-orange">How Does </span>The Learning Management System Software Work ?</h2>
+                                        <div class="content col-sm-11">
+                                            <p class="text-white mb-3 wow animate__animated animate__fadeInDown">An LMS is similar to a virtual classroom, providing a collaborative online space for learners and instructors to engage in interactive learning experiences. It has a vast repository of educational resources in easy-to-understand and multimedia formats.</p>
+                                            <p class="text-white mb-3 wow animate__animated animate__fadeInDown">The institutions are required to create user accounts for students, administrators, and teachers. After setting up different accounts and providing role-based login access, the faculty can create and upload courses, while students can access these content and track their progress regularly over time.</p>
+                                            <div class="text-end"><a href="#cta" class="button-basic button-request-orange ">Request Free Demo  <i class="fas fa-chevron-right"></i></a></div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-12 text-center how__does__lms__img">
+                            <img loading="lazy" src="img/LMS-with-box.webp" class="img-fluid img-shadow" alt="LMS-banner" width="488" height="411">
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+            <!---========= End How Does The Learning Management System Software Work?===============-->
+
+            <!---========= Start Benefits Of Learning Management Systems===============-->
+            <section class="my-5" id="Benefits">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 text-center p-5">
+                            <img loading="lazy" src="img/Benefits-of-LMS.webp" class="img-fluid" alt="LMS-banner" width="356" height="442">
+                        </div>
+                        <div class="col-md-6 mt-md-5 mt-sm-0">
+                            <img loading="lazy" src="img/Benefits-of-LMS-icons.webp" class="img-fluid mb-3" alt="LMS-banner" width="81" height="81">
+                            <h2 class="h2__heading2 animate__fadeInDown wow animated"><span>Benefits Of</span><br />
+                                Learning Management Systems</h2>
+                            <p><i class="fa-solid fa-caret-right "></i><strong>Quick Feedback : </strong>LMS let's instructors provide immediate feedback to students, thereby bridging the learning gap and improving their academic performance.</p>
+                            <p><i class="fa-solid fa-caret-right "></i><strong>Cost-Effective : </strong>It eliminates the need for a physical classroom. It reduces the cost of printing & distribution of learning materials, thereby enabling schools to allocate resources efficiently.</p>
+                            <p><i class="fa-solid fa-caret-right "></i><strong>Better Learning Outcomes : </strong>LMS offers personalized learning paths tailored to each learner’s needs along with the ability to learn at their own pace, thereby boosting learning outcomes.</p>
+                            <p><i class="fa-solid fa-caret-right "></i><strong>Highly Scalable : </strong>LMS can accommodate a large number of students making it ideal for institutions with increasing student enrolments.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!---========= End Benefits Of Learning Management Systems===============-->
+
+            <!---=========Start Types of Learning Management System ===============-->
+            <section class="my-5 lms-type">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <img loading="lazy" src="img/Types-of-LMS-Icons.webp" class="img-fluid" alt="LMS-banner" width="81" height="81">
+                            <h2 class="h2__heading2 mt-3"><span>Types Of</span>
+                                <br />
+                                Learning Management Systems</h2>
+                            <div class="p-3 border rounded mt-5 ">
+                                <h4 class="fw-bold text-orange">1. Integrated LMS</h4>
+                                <p>Learning Management Systems can be integrated with scheduling, internal calendars, and mailing service; also with other ERP systems such as SIS, attendance management, payroll management, fee management, etc. This Learning Management Systems offers a unified view of all the users across the institution.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 text-center mt-md-5 mt-sm-0">
+                            <img loading="lazy" src="img/Types-of-LMS.webp" class="img-fluid mt-5" alt="LMS-banner" width="488" height="411">
+                        </div>
+                        <div class="col-md-6 mt-3">
+                            <div class="h-100 p-3 border rounded">
+                                <h4 class="fw-bold text-orange">2. Open-Source LMS vs Closed Source LMS</h4>
+                                <p>Open Source Learning Management Systems offers complete freedom and flexibility with customization options. It helps to schedule and design priority features rather than waiting to be provided by the ERP vendor. Whereas, closed source Learning Management Systems is a proprietary code. The customization is carried out by the LMS owner and can be made available as a SaaS application on the cloud.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mt-3">
+                            <div class="h-100 p-3 border rounded">
+                                <h4 class="fw-bold text-orange">3. Free LMS vs Commercial LMS</h4>
+                                <p>Free Learning Management Systems is free to use & can be downloaded easily & installed on the institution’s servers. It only has basic features such as course management, content creation, etc. Whereas, commercial Learning Management Systems requires a license fee, & the cost varies depending on  features & the number of users. It has advanced capabilities of analytics, BI reporting tools, gamification, etc.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mt-3">
+                            <div class="h-100 p-3 border rounded">
+                                <h4 class="fw-bold text-orange">4. SaaS LMS/Cloud-Based LMS vs Hosted LMS</h4>
+                                <p>Saas Learning Management Systems is hosted on the ERP provider’s servers and is accessible via the internet. It is offered on a subscription basis where the school pays a monthly/yearly fee. However, hosted LMS is installed on the institution’s servers and managed by their IT department. It requires an upfront capital investment in software, hardware, and other IT services.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 mt-3">
+                            <div class="h-100 p-3 border rounded">
+                                <h4 class="fw-bold text-orange">5. Corporate LMS vs Academic LMS</h4>
+                                <p>Corporate LMS is developed for employee training & development in the corporate sector. It mainly focuses on job-related skills, professional development, and compliance training. Whereas, academic LMS is specifically designed for education and training in universities, schools, and colleges. It focuses on curriculum content and academic courses.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!---========= End Types of Learning Management System===============-->
+
+            <!---=========Start Why Choose MasterSoft’s Learning Management System Software===============-->
+            <section class="mb-5 how__does__section" id="Why_Mastersoft">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-12 why__choose__lms__img">
+                            <img loading="lazy" src="img/Why-Choose.webp" class="img-fluid img-shadow" alt="LMS-banner" width="466" height="450">
+                        </div>
+                        <div class="col-lg-8 col-md-12 mt-md-5 mt-sm-0">
+                            <div class="how__does__lms">
+                                <div class="first-inner">
+                                    <div class="second-inner p-5">
+                                        <h2 class="h2__heading2 ml-5 text-white animate__fadeInDown wow animated"><span class="text-orange">Why Choose MasterSoft’s</span> Learning Management System?</h2>
+                                        <div class="content ">
+                                            <p class="text-white  ml-5 mb-3">MasterSoft is a trusted name in the education technology sector, known for delivering cutting-edge ERP solutions in line with the industry requirements to educational institutions. Over the years, the company has gained a strong foothold in the edtech industry by consistently delivering reliable and innovative ERP solutions. With collaboration with industry experts and academicians we have developed a robust and versatile LMS which caters to specific needs of institutions.</p>
+                                            <p><strong class="text-white">Our LMS offers:</strong></p>
+                                            <ul class="bullet__list">
+                                                <li><strong>Diverse Features: </strong>Collaborative Learning, Simplified Course Creation, Advanced Assessment tools, etc. </li>
+                                                <li><strong>Intuitive Interface: </strong>Easy to Navigate Without the Need for Any Training or Technical Knowledge. </li>
+                                                <li><strong>Seamless Integration: </strong>Integrated Platform with SIS, Payment Gateways, Exam Management, etc. </li>
+                                                <li><strong>Excellent Support: </strong>Offers Prompt Assistance and Resolves Any Technical Issues Institutes May Face </li>
+                                            </ul>
+                                            <div class="text-end"><a href="#cta" class="button-basic button-request-orange mt-4 ">Request Free Demo <i class="fas fa-chevron-right"></i></a></div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <!---========= End Why Choose MasterSoft’s Learning Management System Software===============-->
+            <!---========= Start customers all over the world===============-->
+
+            <section class="customer_carousel mb-5" id="clientSection">
+                <h2 class="h2__heading2 text-center animate__fadeInDown wow animated"><span>MasterSoft is Loved by </span>2200+ customers<br>
+                    all over the world... </h2>
+                <hr>
+                <div class="container">
+                    <div class="owl-carousel customer_carousel-owl">
+                        <div class="item">
+                            <img loading="lazy" src="img/NIT-goa.webp" class="img-fluid" alt="NIT-goa" width="100" height="103" />
+                        </div>
+                        <div class="item">
+                            <img loading="lazy" src="img/Xavier.webp" class="img-fluid" alt="St. Xavier's High School" width="100" height="103" />
+                        </div>
+                        <div class="item">
+                            <img loading="lazy" src="img/QMS.webp" class="img-fluid" alt="QMS" width="100" height="103" />
+                        </div>
+                        <div class="item">
+                            <img loading="lazy" src="img/SLIIT.webp" class="img-fluid" alt="SLIIT" width="100" height="103" />
+                        </div>
+
+                        <div class="item">
+                            <img loading="lazy" src="img/SSM-v3.webp" class="img-fluid" alt="SSM College" width="122" height="122" />
+                        </div>
+
+                        <div class="item">
+                            <img loading="lazy" src="img/DES.webp" class="img-fluid" alt="DES" width="100" height="103" />
+                        </div>
+                    </div>
+                </div>
+                <hr>
+            </section>
+
+            <!---========= End  customers all over the world===============-->
+            <!---========= Start  FAQ - Learning Management System ===============-->
+
+            <section class="mb-5">
+                <div class="container">
+                    <div class="row">
+                        <h2 class="h2__heading2 text-center animate__fadeInDown wow animated"><span>FAQs on </span>
+                            <br />
+                            Learning Management System</h2>
+
+                        <div class="col-md-9">
+                            <div class="m-4">
+                                <div class="accordion" id="myAccordion">
+                                    <div class="accordion-item mb-3">
+                                        <h5 class="accordion-header" id="headingOne">
+                                            <button type="button" class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne">1. Who Needs an LMS Software?</button>
+                                        </h5>
+                                        <div id="collapseOne" class="accordion-collapse show" data-bs-parent="#myAccordion">
+                                            <div class="card-body p-3">
+                                                <p>An LMS can be helpful for educational institutions such as K-12 schools, colleges, and universities, as well as for businesses who offer employee training & development programs. Also, independent trainers who want to create and sell their own online courses can also benefit from using an LMS software.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item mb-3">
+                                        <h5 class="accordion-header" id="headingTwo">
+                                            <button type="button" class="accordion-button  collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">2. Why Use a Learning Management System?</button>
+                                        </h5>
+                                        <div id="collapseTwo" class="accordion-collapse collapse " data-bs-parent="#myAccordion">
+                                            <div class="card-body  p-3">
+                                                <p>By using an LMS , educational institutions can reduce costs associated with traditional classroom-based training, improve the efficiency of the teaching programs, and provide learners with a more interactive learning experience. Moreover, it allows for better tracking of learner progress and performance, which can help institutions make data-driven decisions to improve their teaching programs.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item mb-3">
+                                        <h5 class="accordion-header" id="headingThree">
+                                            <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">3. What are the Advantages of an LMS ?</button>
+                                        </h5>
+                                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#myAccordion">
+                                            <div class="card-body  p-3">
+                                                <ul>
+                                                    <li>Increases accessibility of course content anytime, anywhere, and on any device </li>
+                                                    <li>Enhances learning engagement and retention through multimedia elements</li>
+                                                    <li>Facilitates collaboration and communication among learners and teachers </li>
+                                                    <li>Provides real-time tracking and reporting of learner progress, performance, and feedback </li>
+                                                    <li>Enables customization and personalization of learning paths to meet individual student needs and preferences.</li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="accordion-item mb-3 ">
+                                        <h5 class="accordion-header" id="headingFour">
+                                            <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour">4. What are the Components of a Learning Management System?</button>
+                                        </h5>
+                                        <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#myAccordion">
+                                            <div class="card-body  p-3">
+                                                <ul>
+                                                    <li>Learner Management </li>
+                                                    <li>Integration and Compatibility</li>
+                                                    <li>Course Content Management</li>
+                                                    <li>Communication and Collaboration</li>
+                                                    <li>Assessment and Testing</li>
+                                                    <li>Reporting and Analytics</li>
+                                                    <li>Security and Compliance</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="accordion-item mb-3 ">
+                                        <h5 class="accordion-header" id="headingFive">
+                                            <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFive">5. How do you Choose LMS?</button>
+                                        </h5>
+                                        <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#myAccordion">
+                                            <div class="card-body  p-3">
+                                                <ul>
+                                                    <li>Determine your institution's size and needs. </li>
+                                                    <li>Decide what kind of teaching you are required to deliver.</li>
+                                                    <li>Consider the necessary features and capabilities, such as content production tools, assessment tools, and reporting tools.</li>
+                                                    <li>Evaluate the customer service support provided by the ERP vendor.</li>
+                                                    <li>Analyze and compare the costs of various LMS systems. </li>
+                                                    <li>To help you make a selection, read user comparisons and reviews.</li>
+                                                    <li>Before making a final decision, request demos or trials to test it out.</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3 text-center d-flex align-items-center ">
+                            <img loading="lazy" src="img/FAQ.webp" class="img-fluid" alt="LMS-banner" width="312" height="323">
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <!---========= End  FAQ - Learning Management System===============-->
+
+        <!---========= Start Footer ===============-->
+        <footer class="main_footer bg-dark p-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-5">
+                        <div class="footer-logo mb-3 animate__fadeInDown wow animated">
+                            <img loading="lazy" src="img/company-logo-footer.png" class="img-fluid" alt="logo" width="248" height="52">
+                        </div>
+
+                        <ul class="footer_social_icon">
+                            <li><a href="https://www.facebook.com/CampusManagementSolutions/" rel="nofollow" target="_blank" class="fb-icon social-icon"><i class="fa-brands fa-facebook-f"></i></a></li>
+                            <li><a href="https://www.facebook.com/groups/highereducationleaders" rel="nofollow" target="_blank" class="fbg-icon social-icon"><i class="fa-solid fa-users"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/master's-software/" rel="nofollow" target="_blank" class="link-icon social-icon"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                            <li><a href="https://www.instagram.com/mastersoft_edu/" rel="nofollow" target="_blank" class="insta-icon social-icon"><i class="fa-brands fa-instagram"></i></a></li>
+                            <li><a href="https://www.youtube.com/channel/UCvlpN5uS4_g5TJ9u15xoCBQ" rel="nofollow" target="_blank" class="youtube-icon social-icon"><i class="fa-brands fa-youtube"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-7">
+                        <p class="text-white"><span class="text-orange fw-bold">Address : </span>Mastersoft ERP Solutions Pvt. Ltd., MIHAN, Nagpur, India 441108</p>
+                        <p class="text-white"><span class="text-orange fw-bold">E-mail : </span><a href="mailto:presales@iitms.co.in" class="text-white text-decoration-none">presales@iitms.co.in</a></p>
+                        <p class="text-white"><span class="text-orange fw-bold">Phone : </span>+91-712-2713714, 8448010216</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!---========= End Footer ===============-->
+
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="owlcarousel/owl.carousel.min.js"></script>
+        <script src="js/custom.js"></script>
+
+        <script>
+            $(document).ready(function () {
+                var owl = $('.customer_carousel-owl');
+                owl.owlCarousel({
+                    loop: true,
+                    margin: 0,
+                    nav: false,
+                    dots: false,
+                    autoplay: true,
+                    responsive: {
+                        0: {
+                            items: 2
+                        },
+                        600: {
+                            items: 4
+                        },
+                        1000: {
+                            items: 6
+                        }
+                    }
+
+                });
+
+            });
+
+        </script>
+
+        <div>
+        </div>
+    </form>
+</body>
+</html>
